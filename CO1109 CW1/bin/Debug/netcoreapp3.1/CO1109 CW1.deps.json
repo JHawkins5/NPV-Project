@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CO1109 CW1/1.0.0": {
+        "runtime": {
+          "CO1109 CW1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CO1109 CW1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

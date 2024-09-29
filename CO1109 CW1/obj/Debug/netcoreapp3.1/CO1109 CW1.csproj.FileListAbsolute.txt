@@ -1,0 +1,16 @@
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\bin\Debug\netcoreapp3.1\CO1109 CW1.exe
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\bin\Debug\netcoreapp3.1\CO1109 CW1.deps.json
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\bin\Debug\netcoreapp3.1\CO1109 CW1.runtimeconfig.json
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\bin\Debug\netcoreapp3.1\CO1109 CW1.runtimeconfig.dev.json
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\bin\Debug\netcoreapp3.1\CO1109 CW1.dll
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\bin\Debug\netcoreapp3.1\CO1109 CW1.pdb
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.csproj.AssemblyReference.cache
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109_CW1.Form1.resources
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.csproj.GenerateResource.cache
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.AssemblyInfoInputs.cache
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.AssemblyInfo.cs
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.csproj.CoreCompileInputs.cache
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.dll
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.pdb
+C:\Users\jacka\OneDrive\Documents\Uni-Jacks-Laptop\Year 1\CO1109\CO1109 CW1\obj\Debug\netcoreapp3.1\CO1109 CW1.genruntimeconfig.cache
